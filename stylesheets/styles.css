@@ -165,6 +165,10 @@ section {
   padding-bottom:50px;
 }
 
+section :first-child {
+  padding-top:0.665em;
+}
+
 small {
   font-size:11px;
 }
