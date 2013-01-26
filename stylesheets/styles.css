@@ -32,6 +32,10 @@ h3, h4, h5, h6 {
   color:#494949;
 }
 
+h4 {
+  margin-bottom: 5px;
+}
+
 a {
   color:#39c;
   font-weight:400;
@@ -162,11 +166,15 @@ header ul a strong {
 section {
   width:500px;
   float:right;
-  padding-bottom:50px;
+  padding-bottom:30px;
 }
 
-section :first-child {
+section article:first-child h3 {
   padding-top:0.665em;
+}
+
+article {
+  margin-bottom: 40px;
 }
 
 small {
