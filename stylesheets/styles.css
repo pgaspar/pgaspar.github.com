@@ -1,10 +1,10 @@
-@import url(https://fonts.googleapis.com/css?family=Lato:300italic,700italic,300,700);
+@import url(https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,600,700);
 
 body {
   padding:50px;
-  font:19px/1.5 Lato, "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font:18px/1.5 "Source Sans Pro", "Helvetica Neue", Helvetica, Arial, sans-serif;
   color:#333;
-  font-weight:300;
+  font-weight:400;
   background-color: #fefefe;
 }
 
@@ -39,7 +39,7 @@ h4 {
 }
 
 a {
-  color:#39c;
+  color:#438acc;
   font-weight:400;
   text-decoration:none;
 }
