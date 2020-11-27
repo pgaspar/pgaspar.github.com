@@ -3,11 +3,21 @@ html {
 }
 
 body {
+  background-color: #fafafa;
   color: #444;
 }
 
 body.dark-theme {
+  background-color: #252627;
   color: #ceced7;
+}
+
+.container {
+  background-color: #fff;
+}
+
+body.dark-theme .container {
+  background-color: #292a2d;
 }
 
 .post-content {
