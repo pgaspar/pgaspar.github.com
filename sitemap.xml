@@ -3,25 +3,25 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/about/</loc>
+    <loc>https://pedrogaspar.com/about/</loc>
     <lastmod>2020-10-16T11:56:01+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/projects/</loc>
+    <loc>https://pedrogaspar.com/projects/</loc>
     <lastmod>2020-10-16T02:37:54+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/categories/</loc>
+    <loc>https://pedrogaspar.com/categories/</loc>
   </url>
   
   <url>
-    <loc>/</loc>
+    <loc>https://pedrogaspar.com/</loc>
   </url>
   
   <url>
-    <loc>/tags/</loc>
+    <loc>https://pedrogaspar.com/tags/</loc>
   </url>
   
 </urlset>
