@@ -1,0 +1,59 @@
+html {
+  overflow-y: overlay; /* Fix scrollbar shifting content on Chrome */
+}
+
+body {
+  background-color: #fafafa;
+  color: #444;
+}
+
+body.dark-theme {
+  background-color: #252627;
+  color: #ceced7;
+}
+
+.container {
+  background-color: #fff;
+}
+
+body.dark-theme .container {
+  background-color: #292a2d;
+}
+
+.post-content {
+  margin-bottom: 50px;
+}
+
+.post-info:first-child {
+  margin-bottom: 0;
+}
+
+.post-info {
+  margin: 20px 0;
+}
+
+footer.footer {
+  padding-top: 0;
+}
+
+.full-width {
+  width: 100%;
+}
+
+.bulleted-table {
+  padding-left: 20px;
+}
+
+.social-icon svg {
+  width: 16px;
+  height: 16px;
+  vertical-align: middle;
+  margin: 0 4px;
+}
+
+@media screen and (max-width: 685px) {
+  .bulleted-table {
+    padding-left: 0;
+    font-size: 0.8em;
+  }
+}

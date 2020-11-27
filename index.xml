@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pedro Gaspar</title>
+    <link>/</link>
+    <description>Recent content on Pedro Gaspar</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>/about/</link>
+      <pubDate>Fri, 16 Oct 2020 11:56:01 +0100</pubDate>
+      
+      <guid>/about/</guid>
+      <description>Hi 👋 My name is Pedro. I&amp;rsquo;m a full-stack developer with a passion for code quality, healthy team dynamics and personal growth.
+The technologies I&amp;rsquo;m most experienced with are Ruby on Rails (9+ years) and React (5+ years), but I have worked with a few other stacks over the years - and I&amp;rsquo;m always on the look out to learn more.
+In my free time I enjoy working on side-projects, mentoring on Exercism, spending time with my girlfriend, exercising, gaming, stargazing and following creators on YouTube and Twitch.</description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>/projects/</link>
+      <pubDate>Fri, 16 Oct 2020 02:37:54 +0100</pubDate>
+      
+      <guid>/projects/</guid>
+      <description>Recently  Covid Square Mentoring Ruby on Exercism  At 1776 and Union  Union (2015 - 2020)  At Disruption  Hubble Stream (2014) Hubble Portfolio (2014)  At Bundlr  Bundlr (2011 - 2013) Tiny Cassette (Codebits, 2012) Bundlr for iPhone (2013)  Other Side Projects / Volunteering  Contributor at Rails Girls Summer of Code (2017) Coach at Rails Girls Porto (2013, 2014) I Work Remote.ly (2014) SubZam (won 3rd place at Codebits, 2014) Saferpay gem (Whitesmith, 2014) Café Wi-fi (Improve Coimbra, 2013) O Que Falta em Coimbra (2012)  </description>
+    </item>
+    
+  </channel>
+</rss>
