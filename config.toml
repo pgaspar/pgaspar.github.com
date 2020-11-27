@@ -54,7 +54,7 @@ googleAnalytics = "UA-1538819-4"
     logoCursorAnimate  = "2s"
 
   [params.portrait]
-    path     = "/imgs/pedro-gaspar.jpg"
+    path     = "/imgs/pedro_gaspar.jpg"
     alt      = "Photo of Pedro Gaspar"
     maxWidth = "200px"
 
