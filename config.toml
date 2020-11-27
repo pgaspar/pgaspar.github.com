@@ -20,9 +20,9 @@ googleAnalytics = "UA-1538819-4"
   name = "Pedro Gaspar"
 
 [params]
-  description = "Hi, I'm a full-stack developer working remotely with Rails and React."
+  description = "Hi! I'm a Portuguese full-stack developer working remotely with Rails and React. I have a passion for code quality, healthy team dynamics and personal growth."
   keywords = "blog,developer,personal"
-  images = ["/imgs/og-image.jpg"]
+  images = ["/imgs/pedro_gaspar.jpg"]
 
   homeSubtitle = "Full-Stack Developer • Rails • React"
   subtitle = "Full-Stack Developer"
@@ -63,10 +63,10 @@ googleAnalytics = "UA-1538819-4"
     msapplication = "#66acc6"
     theme = "#252627"
 
-# [taxonomies]
-#   category = "categories"
-#   series = "series"
-#   tag = "tags"
+[taxonomies]
+  series = "series"
+  # category = "categories"
+  # tag = "tags"
 
 [[params.social]]
   name = "github"
