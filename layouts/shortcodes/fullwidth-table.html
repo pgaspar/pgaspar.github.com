@@ -1,0 +1,6 @@
+{{ $htmlTable := .Inner | markdownify }}
+{{ $classes := .Get 0 }}
+{{ $old := "<table>" }}
+{{ $new := printf "<table class=\"full-width %s\">" $classes }}
+{{ $htmlTable := replace $htmlTable $old $new }}
+{{ $htmlTable | safeHTML }}

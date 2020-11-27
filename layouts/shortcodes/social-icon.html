@@ -1,0 +1,7 @@
+{{ $socialStruct := (dict "name" (.Get 0)) }}
+
+{{ with $socialStruct }}
+  <span class="social-icon">
+    {{ partial "svg.html" . }}
+  </span>
+{{ end }}

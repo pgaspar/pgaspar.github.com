@@ -1,0 +1,102 @@
+baseurl = "/"
+title = "Pedro Gaspar"
+
+theme = "hello-friend-ng"
+
+languagecode = "en"
+defaultcontentlanguage = "en"
+
+paginate = 20
+canonifyurls = true
+
+pygmentsstyle = "b2"
+pygmentscodefences = true
+pygmentscodefencesguesssyntax = true
+
+disqusShortname = ""
+googleAnalytics = "UA-1538819-4"
+
+[author]
+  name = "Pedro Gaspar"
+
+[params]
+  description = "Hi, I'm a full-stack developer working remotely with Rails and React."
+  keywords = "blog,developer,personal"
+  images = ["/imgs/og-image.jpg"]
+
+  homeSubtitle = "Full-Stack Developer • Rails • React"
+  subtitle = "Full-Stack Developer"
+
+  disableReadOtherPosts = true
+
+  # Sharing buttons
+  #
+  # There are a lot of buttons preconfigured. If you want to change them,
+  # generate the buttons here: https://sharingbuttons.io
+  # and add them into your own `layouts/partials/sharing-buttons.html`
+  #
+  enableSharingButtons = false
+
+  # Integrate Javascript files or stylesheets by adding the url to the external assets or by
+  # linking local files with their path relative to the static folder, e.g. "css/styles.css"
+  #
+  customCSS = ["/css/styles.css"]
+  customJS  = []
+
+  [params.logo]
+    logoText     = "Pedro Gaspar"
+    logoHomeLink = "/"
+    # Set true to remove the logo cursor entirely.
+    # logoCursorDisabled = false
+    # Set to a valid CSS color to change the cursor in the logo.
+    logoCursorColor = "#66acc6"
+    # Set to a valid CSS time value to change the animation duration, "0s" to disable.
+    logoCursorAnimate  = "2s"
+
+  [params.portrait]
+    path     = "/imgs/pedro-gaspar.jpg"
+    alt      = "Photo of Pedro Gaspar"
+    maxWidth = "200px"
+
+  [params.favicon.color]
+    mask = "#66acc6"
+    msapplication = "#66acc6"
+    theme = "#252627"
+
+# [taxonomies]
+#   category = "categories"
+#   series = "series"
+#   tag = "tags"
+
+[[params.social]]
+  name = "github"
+  weight = 1
+  url = "https://github.com/pgaspar/"
+[[params.social]]
+  name = "twitter"
+  weight = 2
+  url = "https://twitter.com/pedrogaspar/"
+[[params.social]]
+  name = "linkedin"
+  weight = 3
+  url = "https://www.linkedin.com/in/pmfgaspar/"
+[[params.social]]
+  name = "email"
+  weight = 4
+  url = "mailto:me@pedrogaspar.com"
+
+
+[[menu.main]]
+  name = "About"
+  weight = 1
+  url = "about/"
+
+# [[menu.main]]
+#   name = "Blog"
+#   weight = 2
+#   url = "posts/"
+
+[[menu.main]]
+  name = "Projects"
+  weight = 3
+  url = "projects/"
