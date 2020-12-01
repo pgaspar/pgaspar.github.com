@@ -3,13 +3,14 @@ html {
 }
 
 body {
+  letter-spacing: 0.025em;
   background-color: #fafafa;
   color: #444;
 }
 
 body.dark-theme {
   background-color: #252627;
-  color: #ceced7;
+  color: #b2b2bd;
 }
 
 .container {
