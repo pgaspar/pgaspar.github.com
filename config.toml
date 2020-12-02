@@ -79,7 +79,7 @@ googleAnalytics = "UA-1538819-4"
 [[params.social]]
   name = "linkedin"
   weight = 3
-  url = "https://www.linkedin.com/in/pmfgaspar/"
+  url = "https://www.linkedin.com/in/pmgaspar/"
 [[params.social]]
   name = "email"
   weight = 4
