@@ -41,10 +41,6 @@ footer.footer {
   width: 100%;
 }
 
-.bulleted-table {
-  padding-left: 20px;
-}
-
 .social-icon svg {
   width: 16px;
   height: 16px;
@@ -52,9 +48,37 @@ footer.footer {
   margin: 0 4px;
 }
 
+.ValuesList {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+.ValuesList ul {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.SkillsList-skill {
+  margin-bottom: 12px;
+  display: flex;
+  align-items: top;
+  padding-left: 16px;
+}
+
+.SkillsList-skill > div:last-child {
+  padding-left: 12px;
+}
+
 @media screen and (max-width: 685px) {
   .bulleted-table {
     padding-left: 0;
     font-size: 0.8em;
+  }
+
+  .SkillsList-skill {
+    padding-left: 0;
   }
 }
