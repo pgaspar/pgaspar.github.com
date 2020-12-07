@@ -14,30 +14,47 @@ In my free time I enjoy working on [side-projects](https://github.com/pgaspar?ta
 
 This is a list of core practices and values that I strongly identify with, in no particular order. I selected them out of the full list at [Key Values](https://www.keyvalues.com).
 
-{{< fullwidth-table "bulleted-table" >}}
-| | |
-| --- | --- |
-| &bull; Open Communication | &bull; Diversity, Equity and Inclusion |
-| &bull; Transparency | &bull; High Employee Retention |
-| &bull; Code Quality | &bull; Work/Life Balance |
-| &bull; Maintainability | &bull; Remote First Culture |
-| &bull; Testing | &bull; Flexible working hours |
-| &bull; Open Source & Community Contributions | &bull; EQ > IQ |
-| &bull; Continous Feedback | &bull; Psychological Safety |
-| &bull; Mentorship | &bull; Customer Comes First |
-| &bull; Commitment to Personal Growth | &bull; Product/Data Driven |
-{{< /fullwidth-table >}}
+{{< safe-html >}}
+  <div class="ValuesList">
+    <ul>
+      <li>Open Communication</li>
+      <li>Transparency</li>
+      <li>Code Quality</li>
+      <li>Maintainability</li>
+      <li>Testing</li>
+      <li>Open Source & Community Contributions</li>
+      <li>Continous Feedback</li>
+      <li>Mentorship</li>
+      <li>Commitment to Personal Growth</li>
+    </ul>
+    <ul>
+      <li>Diversity, Equity and Inclusion</li>
+      <li>High Employee Retention</li>
+      <li>Work/Life Balance</li>
+      <li>Remote First Culture</li>
+      <li>Flexible working hours</li>
+      <li>EQ > IQ</li>
+      <li>Psychological Safety</li>
+      <li>Customer Comes First</li>
+      <li>Product/Data Driven</li>
+    </ul>
+  </div>
+{{< /safe-html >}}
 
 If your company aligns with these values, please [get in touch](mailto:me+values@pedrogaspar.com)!
 
 ## Skills
 
-* **👨‍💻&nbsp;&nbsp;Back-end:** Rails, Sinatra, Django, Express.js
-* **🧑‍🎨&nbsp;&nbsp;Front-end:** React, Tailwind, jQuery, JavaScript, CSS, Sass, HTML5
-* **👷‍♂️&nbsp;&nbsp;Databases:** PostgreSQL, Redis, MongoDB, MySQL
-* **🧑‍⚕️&nbsp;&nbsp;Testing:** RSpec, Capybara, Cucumber, MiniTest, Jester, TDD, BDD
-* **🕵️&nbsp;&nbsp;Search Engines:** ElasticSearch, Solr (Sunspot)
-* **👨‍🔧&nbsp;&nbsp;Infrastructure:** AWS, Heroku, Netlify, Github Actions, Circle CI, Sidekiq
+{{< safe-html >}}
+  <div class="SkillsList">
+    {{< skill "👨‍💻" "Back-end" "Rails, Sinatra, Django, Express.js" >}}
+    {{< skill "🧑‍🎨" "Front-end" "React, Tailwind, jQuery, JavaScript, CSS, Sass, HTML5" >}}
+    {{< skill "👷‍♂️" "Databases" "PostgreSQL, Redis, MongoDB, MySQL" >}}
+    {{< skill "🧑‍⚕️" "Testing" "RSpec, Capybara, Cucumber, MiniTest, Jester, TDD, BDD" >}}
+    {{< skill "🕵️" "Search Engines" "ElasticSearch, Solr (Sunspot)" >}}
+    {{< skill "👨‍🔧" "Infrastructure" "AWS, Heroku, Netlify, Github Actions, Circle CI, Sidekiq" >}}
+  </div>
+{{< /safe-html >}}
 
 ## Where to find me
 

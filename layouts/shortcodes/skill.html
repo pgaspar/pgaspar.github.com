@@ -1,0 +1,13 @@
+{{ $emoji := .Get 0 }}
+{{ $title := .Get 1 }}
+{{ $description := .Get 2 }}
+
+<div class="SkillsList-skill">
+  <div>
+    {{ $emoji }}
+  </div>
+  <div>
+    <div><b>{{ $title }}</b></div>
+    <div>{{ $description }}</div>
+  </div>
+</div>
