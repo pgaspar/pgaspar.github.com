@@ -47,12 +47,12 @@ If your company aligns with these values, please [get in touch](mailto:me+values
 
 {{< safe-html >}}
   <div class="SkillsList">
-    {{< skill "👨‍💻" "Back-end" "Rails, Sinatra, Django, Express.js" >}}
+    {{< skill "🧑‍💻" "Back-end" "Rails, Sinatra, Django, Express.js" >}}
     {{< skill "🧑‍🎨" "Front-end" "React, Tailwind, jQuery, JavaScript, CSS, Sass, HTML5" >}}
-    {{< skill "👷‍♂️" "Databases" "PostgreSQL, Redis, MongoDB, MySQL" >}}
+    {{< skill "👷" "Databases" "PostgreSQL, Redis, MongoDB, MySQL" >}}
     {{< skill "🧑‍⚕️" "Testing" "RSpec, Capybara, Cucumber, MiniTest, Jester, TDD, BDD" >}}
     {{< skill "🕵️" "Search Engines" "ElasticSearch, Solr (Sunspot)" >}}
-    {{< skill "👨‍🔧" "Infrastructure" "AWS, Heroku, Netlify, Github Actions, Circle CI, Sidekiq" >}}
+    {{< skill "🧑‍🔧" "Infrastructure" "AWS, Heroku, Netlify, Github Actions, Circle CI, Sidekiq" >}}
   </div>
 {{< /safe-html >}}
 
