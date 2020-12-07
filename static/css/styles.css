@@ -62,23 +62,26 @@ footer.footer {
 }
 
 .SkillsList-skill {
-  margin-bottom: 12px;
+  margin-bottom: 16px;
   display: flex;
   align-items: top;
   padding-left: 16px;
 }
 
-.SkillsList-skill > div:last-child {
-  padding-left: 12px;
+.SkillsList-skill-icon {
+  font-size: 1.5em;
+}
+
+.SkillsList-skill-text {
+  padding-left: 8px;
 }
 
 @media screen and (max-width: 685px) {
-  .bulleted-table {
-    padding-left: 0;
-    font-size: 0.8em;
-  }
-
   .SkillsList-skill {
     padding-left: 0;
+  }
+
+  .SkillsList-skill-icon {
+    font-size: 1.2em;
   }
 }
