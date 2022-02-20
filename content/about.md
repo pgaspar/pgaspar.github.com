@@ -23,7 +23,7 @@ This is a list of core practices and values that I strongly identify with, in no
       <li>Maintainability</li>
       <li>Testing</li>
       <li>Open Source & Community Contributions</li>
-      <li>Continous Feedback</li>
+      <li>Continuous Feedback</li>
       <li>Mentorship</li>
       <li>Commitment to Personal Growth</li>
     </ul>
